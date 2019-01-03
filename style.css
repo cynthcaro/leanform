@@ -1,5 +1,11 @@
-html , div {
-	width: 500px;
-	height: 400px;
-	content: 2px black;
+html, body{
+    background-color: pink;
+    width: 300px;
+    border: 10px;
+    margin: 25px
+    padding: 25px;
+    margin: 100px auto;
+}
+.form{
+    text-align: center;
 }
