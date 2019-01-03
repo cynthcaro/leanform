@@ -1,1 +1,5 @@
-njjj
+html , div {
+	width: 500px;
+	height: 400px;
+	content: 2px black;
+}
